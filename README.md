@@ -1,5 +1,5 @@
 # ParlaMint_CLARIN
-3.12.	Hungarian Parliament
+Hungarian Parliament
 Characteristics of the national parliament
 The Hungarian parliamentary corpus contains the Minutes of the National Assembly of Hungary, Term 7 and 8 (2014.06.10-2020.12.14). It consists of 3086 speeches and 1114495 words. The source of the data is downloaded from the official page of the Hungarian National Assembly (https://www.parlament.hu/), where each day is converted into one XML file with TEI encoding. The unicameral assembly’s data includes regular, special (extraordinary, urgent, ceremonial, commemorative) and continued meetings, in which there are interpellations, urgent questions and regular speeches.
 
